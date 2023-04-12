@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IwDeRcs3lOEYyye5CRLppaB4Bm0AmgnzKw8Ux6NPEDhPxSM7V7YqkQm+L8w5cDG2kr+sZfcyxkhiYcokTbEBvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fersl\\OneDrive\\Documentos\\Visual Studio 2022\\webapi\\webapi_siete\\webapi_siete\\webapi_siete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fersl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\fersl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
